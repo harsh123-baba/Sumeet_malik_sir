@@ -23,4 +23,4 @@ int main(){
         cin>>v[i];
     }
     cout<<maxElement(v, INT_MIN, 0);
-}
+} 
