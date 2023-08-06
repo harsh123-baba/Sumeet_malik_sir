@@ -20,8 +20,8 @@ void permutation(string s, string ans){
 
 
 int main(){
-    string s;
-    cin>>s;
+    string s="abc";
+    // cin>>s;
     permutation(s, "");
 
 }

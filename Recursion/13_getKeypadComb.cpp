@@ -17,10 +17,7 @@ void key_pad_comb(string s, string ans){
         char cho = codeforch[i];
         key_pad_comb(rstr, ans+cho);
     }
-
 }
-
-
 
 int main(){
     string s;
